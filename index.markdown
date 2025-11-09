@@ -71,12 +71,12 @@ title: "Keith Chern - Data Science Lecturer"
 <div class="resume-container">
 
   <div class="sidebar">
-    <img src="profile.jpg" alt="Keith Chern">
+    <img src="profile.jpeg" alt="Keith Chern">
     <h1>Keith Chern</h1>
     <p><strong>Data Science Lecturer</strong></p>
     <p>AI · Cloud · IoT · Data Analytics</p>
     <p>📍 Singapore</p>
-    <p>📧 <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>📧 <a href="mailto:keith@lifecarenation.com">keith@lifecarenation.com</a></p>
     <p>
       🌐 <a href="https://linkedin.com/in/keithchern">LinkedIn</a><br>
       💻 <a href="https://github.com/KeithChern">GitHub</a>
@@ -86,8 +86,8 @@ title: "Keith Chern - Data Science Lecturer"
   <div class="main-content">
     <div class="section">
       <h2>🎓 Education</h2>
-      <ul>
-        <li><strong>MSc in Data Science</strong>, University of Wolverhampton</li>
+      <ul>ers
+        <li><strong>MSc in Strategic Marketing/strong>, Curtin University</li>
         <li><strong>BEng in Computer Engineering</strong>, Nanyang Polytechnic</li>
       </ul>
     </div>
