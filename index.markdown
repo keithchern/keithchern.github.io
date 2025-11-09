@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Keith Chern - Data Science Lecturer"
+title: "Educator, Career Coach and School of IT Facilitator"
 ---
 
 <style>
@@ -125,7 +125,7 @@ title: "Keith Chern - Data Science Lecturer"
       <h2>🌐 Links</h2>
       <ul>
         <li><a href="https://github.com/KeithChern">GitHub Portfolio</a></li>
-        <li><a href="https://linkedin.com/in/keithchern">LinkedIn Profile</a></li>
+        <li><a href="https://www.linkedin.com/in/keith-chern-1b8b4a6/">LinkedIn Profile</a></li>
         <li><a href="https://github.com/KeithChern?tab=repositories">Teaching Repositories</a></li>
       </ul>
     </div>
